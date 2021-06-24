@@ -1,6 +1,6 @@
 
 <h2>What is Voop Token?</h2> 
-<p>VoopToken is a crypto currency for the Voopiran Empire</p> 
+<p>VoopToken is a crypto currency for the Voopiran Empire (rolplay commuinty)</p> 
 
 
 
