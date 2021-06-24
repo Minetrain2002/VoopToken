@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Minetrain2002/VoopToken/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<b>What is Voop Token?</b>
+VoopToken is a crypto currency for the Voopiran Empire 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Why VoopToken?
 
-```markdown
-Syntax highlighted code block
+0.5% of every transaction is burned i.e. permanently destroyed this acts as deflation (opposite of inflation) 
+VoopToken is on binance smart chain so has low gas fees 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+How to buy VoopToken
 
-[Link](url) and ![Image](src)
-```
+1.	Install Metamask make a backup of you seed phrase ideally on paper  
+2.	Add binance smart chain network for in depth instructions see https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
+3.	Adding VoopToken. Check that Metamask is set to the Binance smart chain then click the add token button in the assets tab for the token contract address put the VoopToken contract 0x7b4a8e88f24b49223f0d5b028a1da7ba26a0ac29
+The other fields should self-populate with token symbol ‘VOOP’ 
+And Decimals ‘16’
+4.	Buy some BNB and transfer it to you Metamask account on the Binance smart chain
+5.	Go to pancake swap https://exchange.pancakeswap.finance/#/swap the from should be set to BNB now set the to by clicking on the select a token button, add Vooptoken as a custom token by copy pasting Vooptoken’s contract address (0x7b4a8e88f24b49223f0d5b028a1da7ba26a0ac29) into the search name or paste address field 
+Click import, tick the I understand box and then click import again.
+6.	Put in the number of BNB you want to swap or the amount of VOOP you want to get and click swap or if the button says unlock wallet click it and then follow the prompts and then you can click swap
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+If swap fails set the spillage to 1-2% and try again
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Minetrain2002/VoopToken/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
