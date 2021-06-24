@@ -1,18 +1,18 @@
 
-<b>What is Voop Token?</b>
-VoopToken is a crypto currency for the Voopiran Empire 
+<h2>What is Voop Token?</h2> 
+<p>VoopToken is a crypto currency for the Voopiran Empire</p> 
 
 
 
-Why VoopToken?
+<h2>Why VoopToken?</h2>
 
-0.5% of every transaction is burned i.e. permanently destroyed this acts as deflation (opposite of inflation) 
-VoopToken is on binance smart chain so has low gas fees 
-
-
+<p>0.5% of every transaction is burned i.e. permanently destroyed this acts as deflation (opposite of inflation) 
+VoopToken is on binance smart chain so has low gas fees </p>
 
 
-How to buy VoopToken
+
+
+<h2>How to buy VoopToken</h2>
 
 1.	Install Metamask make a backup of you seed phrase ideally on paper  
 2.	Add binance smart chain network for in depth instructions see https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain
