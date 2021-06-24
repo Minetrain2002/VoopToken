@@ -6,8 +6,8 @@
 
 <h2>Why VoopToken?</h2>
 
-<p>0.5% of every transaction is burned i.e. permanently destroyed this acts as deflation (opposite of inflation) 
-VoopToken is on binance smart chain so has low gas fees </p>
+<p>0.5% of every transaction is burned i.e. permanently destroyed this acts as deflation (opposite of inflation)</p>
+<p>VoopToken is on binance smart chain so has low gas fees </p>
 
 
 
