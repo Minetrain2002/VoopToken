@@ -26,9 +26,6 @@ Click import, tick the I understand box and then click import again.
 
 If swap fails set the spillage to 1-2% and try again
  
-<h2>or you can use the imbeded utility below</h2>  
   
-<iframe src="https://poocoin.app/embed-swap?outputCurrency=0x7b4A8E88f24B49223f0D5b028A1Da7ba26a0aC29" width="420" height="630"> </iframe>
-
 
 
